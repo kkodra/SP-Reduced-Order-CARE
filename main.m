@@ -1,5 +1,4 @@
-% Rewrite of simulation for Automatica. A simple example used to test
-% algorithm.
+% Reduced order solution of CARE for a class of singularly perturbed systems.
 
 clear; clc
 format long g

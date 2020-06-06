@@ -1,6 +1,6 @@
 function results(output)
-%UNTITLED Summary of this function goes here
-%   Detailed explanation goes here
+% Results and corresponding plots generated in main.m
+
 set(0,'DefaultTextInterpreter','Latex',...
     'DefaultAxesFontSize',18,'defaultAxesTickLabelInterpreter','latex',...
     'defaultLineLineWidth',2.5);

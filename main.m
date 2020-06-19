@@ -51,7 +51,7 @@ Vorig_tot = lyap(Aorig_tot',Qorig_tot);
 Jorig_tot = trace(Vorig_tot);
 
 %% Algorithm implementation to evaluate accurate P.
-% Select number of iterations (for this example converges in 10 iterations
+% Select number of iterations (this example converges in 10 iterations)
 iter = 12;
 Jdiff = zeros(1,iter);
 Pdiff = zeros(1,iter);
